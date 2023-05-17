@@ -1,0 +1,12 @@
+{
+  "name": "clockwork",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+  }
+}
